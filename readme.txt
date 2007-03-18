@@ -4,7 +4,7 @@ Donate link:
 Tags: wysiwyg, advanced, editor, TinyMCE
 Requires at least: 2.1
 Tested up to: 2.1.2
-Stable tag: "trunk"
+Stable tag: 0.3
 
 Adds an extra button to the Visual Rich Editor (aka wysiwyg, tinymce) to show advanced features.
 
