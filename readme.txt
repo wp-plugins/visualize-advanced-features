@@ -10,11 +10,11 @@ Adds an extra button to the Visual Rich Editor (aka wysiwyg, tinymce) to show ad
 
 == Description ==
 
-This very simple little WordPress plugin shows the Advanced Toolbar button in your WordPress 2.1x WYSIWYG Post Editor. No more fumbling around for the correct hotkey to show these “hidden” buttons. Just click the button (see red circled image below).
+This very simple little WordPress plugin shows the Advanced Toolbar button in your WordPress 2.1x 
+WYSIWYG Post Editor. No more fumbling around for the correct hotkey to show these "hidden" buttons. 
+Just click the button (see red circled image in the screenshot).
 
-Visualize Toolbar
-
-If you use the wysiwyg editor, you’ll want to give this a try. I think you’ll be pleased.
+If you use the wysiwyg editor, you'll want to give this a try. I think you'll be pleased.
 
 == Installation ==
 
