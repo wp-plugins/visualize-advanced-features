@@ -16,6 +16,8 @@ Just click the button (see red circled image in the screenshot).
 
 If you use the wysiwyg editor, you'll want to give this a try. I think you'll be pleased.
 
+[Original Announcement](http://www.solo-technology.com/blog/2007/02/28/first-release-visualize-advanced-features/)
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
@@ -35,13 +37,13 @@ You'll see a new button at the right end of your Post Editor toolbar
 
 1. Have you verified that you activated the plugin?
 1. Are you using the Visual Rich Editor?
-1.1 Check Users -> Your Profile, the top checkbox should be checked.
-1.  You may need to clear your browser's local cache (ctrl-F5 in Firefox, for example)
+1. Check Users -> Your Profile, the top checkbox should be checked.
+1. You may need to clear your browser's local cache (ctrl-F5 in Firefox, for example)
 
 
 == Screenshots ==
 
-1. See the pretty new button on the right?  (circled in Red for our non-color blind friends)
+1. See the pretty new button on the right?  It is circled in Red for our non-color blind friends
 
 == Thank You ==
 
