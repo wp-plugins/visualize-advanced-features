@@ -47,5 +47,5 @@ You'll see a new button at the right end of your Post Editor toolbar
 
 == Thank You ==
 
-Big shout to [Mark Steel[(http://www.blogitude.com/) for the code.
+Big shout to [Mark Steel](http://www.blogitude.com/) for the code.
 
