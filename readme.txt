@@ -41,6 +41,7 @@ You'll see a new button at the right end of your Post Editor toolbar
 == Screenshots ==
 
 1. See the pretty new button on the right?  It is circled in Red for our non-colorblind friends
+2. Here's the result of clicking the new button.
 
 == Thank You ==
 
