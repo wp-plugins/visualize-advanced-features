@@ -20,10 +20,7 @@ If you use the wysiwyg editor, you'll want to give this a try. I think you'll be
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
+1. Unzip the download.
 1. Upload `ST_Visualize.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
