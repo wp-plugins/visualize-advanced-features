@@ -3,7 +3,7 @@ Contributors: HandySolo
 Donate link: 
 Tags: wysiwyg, advanced, editor, TinyMCE
 Requires at least: 2.1
-Tested up to: 2.2.x
+Tested up to: 2.2
 Stable tag: 0.3
 
 Adds an extra button to the Visual Rich Editor (aka wysiwyg, tinymce) to show advanced features.
