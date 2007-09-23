@@ -2,8 +2,8 @@
 /*
 Plugin Name: ST Visualize Advanced Features
 Plugin URI: http://www.solo-technology.com/blog/2007/02/28/first-release-visualize-advanced-features/
-Description: Show the advanced options button on the WYSIWYG editor all the time.  Conceived by Chris Kasten.  Efficient code from <a href="http://www.blogitude.com/">Mark Steel</a>.
-Version: .03
+Description: Show the advanced options button on the WYSIWYG editor all the time.  Conceived by Chris Kasten.  Efficient code from <a href="http://www.blogitude.com/">Mark Steel</a>.  <strong>Not needed with WordPress 2.3 and higher</strong>
+Version: .04
 Author: Chris Kasten
 Author URI: http://www.solo-technology.com/blog/
 
