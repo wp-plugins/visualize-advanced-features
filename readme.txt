@@ -3,7 +3,7 @@ Contributors: HandySolo
 Donate link: 
 Tags: wysiwyg, advanced, editor, TinyMCE
 Requires at least: 2.1
-Tested up to: 2.1.2
+Tested up to: 2.2.x
 Stable tag: 0.3
 
 Adds an extra button to the Visual Rich Editor (aka wysiwyg, tinymce) to show advanced features.
@@ -17,6 +17,8 @@ Just click the button (see red circled image in the screenshot).
 If you use the wysiwyg editor, you'll want to give this a try. I think you'll be pleased.
 
 [Original Announcement](http://www.solo-technology.com/blog/2007/02/28/first-release-visualize-advanced-features/)
+
+Note: This is now built-in to WordPress 2.3 and unnecessary.
 
 == Installation ==
 
